@@ -1,4 +1,5 @@
 #include <iostream>
+#include <cmath>
 using namespace std;
 int n, a[32];
 int rec(int t1, int t2, int ind) {
